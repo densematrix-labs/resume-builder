@@ -1,0 +1,146 @@
+{
+  "app": {
+    "name": "ResumeForge",
+    "tagline": "Free AI Resume Builder"
+  },
+  "nav": {
+    "home": "Home",
+    "builder": "Builder",
+    "pricing": "Pricing",
+    "templates": "Templates"
+  },
+  "hero": {
+    "title": "Craft Your Perfect Resume",
+    "subtitle": "with AI Power",
+    "description": "Create professional, ATS-friendly resumes in minutes. Powered by AI, designed for success.",
+    "cta": "Start Building — It's Free",
+    "secondary_cta": "View Templates"
+  },
+  "features": {
+    "title": "Everything You Need",
+    "ai_writer": {
+      "title": "AI Resume Writer",
+      "description": "Generate compelling bullet points and summaries with GPT-4 powered AI"
+    },
+    "templates": {
+      "title": "Professional Templates",
+      "description": "10+ ATS-friendly templates designed by career experts"
+    },
+    "export": {
+      "title": "PDF Export",
+      "description": "Download your resume as a clean PDF, ready to submit"
+    },
+    "cover_letter": {
+      "title": "Cover Letter Generator",
+      "description": "Auto-generate personalized cover letters for any job"
+    }
+  },
+  "builder": {
+    "title": "Resume Builder",
+    "personal_info": "Personal Information",
+    "experience": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages",
+    "certifications": "Certifications",
+    "add_section": "Add Section",
+    "preview": "Preview",
+    "download": "Download PDF",
+    "generate_ai": "Generate with AI",
+    "generating": "Generating...",
+    "save": "Save"
+  },
+  "form": {
+    "full_name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "website": "Website/LinkedIn",
+    "summary": "Professional Summary",
+    "job_title": "Job Title",
+    "company": "Company",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "present": "Present",
+    "description": "Description",
+    "degree": "Degree",
+    "school": "School",
+    "field": "Field of Study"
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Start for free. Upgrade when you need more.",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "features": [
+        "5 AI generations per day",
+        "All templates",
+        "PDF export with watermark",
+        "Basic support"
+      ]
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "$2.99",
+      "features": [
+        "30 AI generations",
+        "All templates",
+        "No watermark",
+        "Priority support"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$6.99",
+      "features": [
+        "100 AI generations",
+        "All templates",
+        "No watermark",
+        "Cover letter generator",
+        "Priority support"
+      ]
+    },
+    "unlimited": {
+      "name": "Unlimited",
+      "price": "$9.99/mo",
+      "features": [
+        "Unlimited AI generations",
+        "All templates",
+        "No watermark",
+        "Cover letter generator",
+        "Priority support",
+        "Early access features"
+      ]
+    },
+    "buy_now": "Buy Now",
+    "current_plan": "Current Plan"
+  },
+  "payment": {
+    "success_title": "Payment Successful!",
+    "success_message": "Your tokens have been added to your account.",
+    "tokens_added": "Tokens Added",
+    "continue": "Continue Building"
+  },
+  "alt": {
+    "title": "Best Kickresume Alternative",
+    "comparison": "Why Choose ResumeForge Over Kickresume?",
+    "free_features": "More Free Features",
+    "no_watermark": "No Watermark on Free Tier",
+    "faster_ai": "Faster AI Generation",
+    "better_templates": "Modern Templates"
+  },
+  "footer": {
+    "copyright": "© 2026 ResumeForge. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "close": "Close",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  }
+}

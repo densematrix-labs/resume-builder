@@ -1,0 +1,123 @@
+{
+  "app": {
+    "name": "ResumeForge",
+    "tagline": "Creador de CV con IA Gratis"
+  },
+  "nav": {
+    "home": "Inicio",
+    "builder": "Crear",
+    "pricing": "Precios",
+    "templates": "Plantillas"
+  },
+  "hero": {
+    "title": "Crea tu currículum perfecto",
+    "subtitle": "con el poder de la IA",
+    "description": "Crea currículums profesionales compatibles con ATS en minutos. Impulsado por IA, diseñado para el éxito.",
+    "cta": "Empezar gratis",
+    "secondary_cta": "Ver plantillas"
+  },
+  "features": {
+    "title": "Todo lo que necesitas",
+    "ai_writer": {
+      "title": "Escritor IA de CV",
+      "description": "Genera puntos destacados convincentes con IA GPT-4"
+    },
+    "templates": {
+      "title": "Plantillas profesionales",
+      "description": "10+ plantillas compatibles con ATS diseñadas por expertos"
+    },
+    "export": {
+      "title": "Exportar PDF",
+      "description": "Descarga tu CV como PDF limpio, listo para enviar"
+    },
+    "cover_letter": {
+      "title": "Generador de cartas",
+      "description": "Genera automáticamente cartas de presentación personalizadas"
+    }
+  },
+  "builder": {
+    "title": "Editor de CV",
+    "personal_info": "Información personal",
+    "experience": "Experiencia laboral",
+    "education": "Educación",
+    "skills": "Habilidades",
+    "languages": "Idiomas",
+    "certifications": "Certificaciones",
+    "add_section": "Añadir sección",
+    "preview": "Vista previa",
+    "download": "Descargar PDF",
+    "generate_ai": "Generar con IA",
+    "generating": "Generando...",
+    "save": "Guardar"
+  },
+  "form": {
+    "full_name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "website": "Sitio web/LinkedIn",
+    "summary": "Resumen profesional",
+    "job_title": "Título del puesto",
+    "company": "Empresa",
+    "start_date": "Fecha de inicio",
+    "end_date": "Fecha de fin",
+    "present": "Actual",
+    "description": "Descripción",
+    "degree": "Título",
+    "school": "Universidad",
+    "field": "Campo de estudio"
+  },
+  "pricing": {
+    "title": "Precios simples y transparentes",
+    "subtitle": "Empieza gratis. Mejora cuando lo necesites.",
+    "free": {
+      "name": "Gratis",
+      "price": "0€",
+      "features": ["5 generaciones IA por día", "Todas las plantillas", "PDF con marca de agua", "Soporte básico"]
+    },
+    "starter": {
+      "name": "Inicial",
+      "price": "2,99€",
+      "features": ["30 generaciones IA", "Todas las plantillas", "Sin marca de agua", "Soporte prioritario"]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "6,99€",
+      "features": ["100 generaciones IA", "Todas las plantillas", "Sin marca de agua", "Generador de cartas", "Soporte prioritario"]
+    },
+    "unlimited": {
+      "name": "Ilimitado",
+      "price": "9,99€/mes",
+      "features": ["Generaciones IA ilimitadas", "Todas las plantillas", "Sin marca de agua", "Generador de cartas", "Soporte prioritario", "Acceso anticipado"]
+    },
+    "buy_now": "Comprar ahora",
+    "current_plan": "Plan actual"
+  },
+  "payment": {
+    "success_title": "¡Pago exitoso!",
+    "success_message": "Tus tokens han sido añadidos a tu cuenta.",
+    "tokens_added": "Tokens añadidos",
+    "continue": "Continuar creando"
+  },
+  "alt": {
+    "title": "Mejor alternativa a Kickresume",
+    "comparison": "¿Por qué elegir ResumeForge?",
+    "free_features": "Más funciones gratis",
+    "no_watermark": "Sin marca de agua",
+    "faster_ai": "IA más rápida",
+    "better_templates": "Plantillas modernas"
+  },
+  "footer": {
+    "copyright": "© 2026 ResumeForge. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "retry": "Reintentar",
+    "close": "Cerrar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
+  }
+}

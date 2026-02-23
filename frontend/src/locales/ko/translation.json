@@ -1,0 +1,123 @@
+{
+  "app": {
+    "name": "ResumeForge",
+    "tagline": "무료 AI 이력서 빌더"
+  },
+  "nav": {
+    "home": "홈",
+    "builder": "작성",
+    "pricing": "가격",
+    "templates": "템플릿"
+  },
+  "hero": {
+    "title": "완벽한 이력서를",
+    "subtitle": "AI로 작성하세요",
+    "description": "몇 분 만에 전문적인 ATS 친화적 이력서를 작성하세요. AI 기반, 성공을 위해 설계되었습니다.",
+    "cta": "무료로 시작하기",
+    "secondary_cta": "템플릿 보기"
+  },
+  "features": {
+    "title": "필요한 모든 것",
+    "ai_writer": {
+      "title": "AI 이력서 작성기",
+      "description": "GPT-4 AI로 설득력 있는 경력 사항 생성"
+    },
+    "templates": {
+      "title": "전문 템플릿",
+      "description": "경력 전문가가 디자인한 10개 이상의 ATS 친화적 템플릿"
+    },
+    "export": {
+      "title": "PDF 내보내기",
+      "description": "깔끔한 PDF로 다운로드, 바로 제출 가능"
+    },
+    "cover_letter": {
+      "title": "자기소개서 생성기",
+      "description": "모든 채용 공고에 맞춤 자기소개서 자동 생성"
+    }
+  },
+  "builder": {
+    "title": "이력서 편집기",
+    "personal_info": "개인 정보",
+    "experience": "경력 사항",
+    "education": "학력",
+    "skills": "기술",
+    "languages": "언어",
+    "certifications": "자격증",
+    "add_section": "섹션 추가",
+    "preview": "미리보기",
+    "download": "PDF 다운로드",
+    "generate_ai": "AI로 생성",
+    "generating": "생성 중...",
+    "save": "저장"
+  },
+  "form": {
+    "full_name": "이름",
+    "email": "이메일",
+    "phone": "전화번호",
+    "location": "위치",
+    "website": "웹사이트/LinkedIn",
+    "summary": "자기소개",
+    "job_title": "직책",
+    "company": "회사",
+    "start_date": "시작일",
+    "end_date": "종료일",
+    "present": "현재",
+    "description": "설명",
+    "degree": "학위",
+    "school": "학교",
+    "field": "전공"
+  },
+  "pricing": {
+    "title": "간단하고 투명한 가격",
+    "subtitle": "무료로 시작하세요. 필요할 때 업그레이드.",
+    "free": {
+      "name": "무료",
+      "price": "₩0",
+      "features": ["하루 5회 AI 생성", "모든 템플릿", "워터마크 있는 PDF", "기본 지원"]
+    },
+    "starter": {
+      "name": "스타터",
+      "price": "₩3,900",
+      "features": ["30회 AI 생성", "모든 템플릿", "워터마크 없음", "우선 지원"]
+    },
+    "pro": {
+      "name": "프로",
+      "price": "₩9,900",
+      "features": ["100회 AI 생성", "모든 템플릿", "워터마크 없음", "자기소개서 생성기", "우선 지원"]
+    },
+    "unlimited": {
+      "name": "무제한",
+      "price": "₩14,900/월",
+      "features": ["무제한 AI 생성", "모든 템플릿", "워터마크 없음", "자기소개서 생성기", "우선 지원", "얼리 액세스"]
+    },
+    "buy_now": "지금 구매",
+    "current_plan": "현재 플랜"
+  },
+  "payment": {
+    "success_title": "결제 성공!",
+    "success_message": "토큰이 계정에 추가되었습니다.",
+    "tokens_added": "추가된 토큰",
+    "continue": "계속 작성하기"
+  },
+  "alt": {
+    "title": "최고의 Kickresume 대안",
+    "comparison": "왜 ResumeForge를 선택해야 할까요?",
+    "free_features": "더 많은 무료 기능",
+    "no_watermark": "워터마크 없음",
+    "faster_ai": "더 빠른 AI 생성",
+    "better_templates": "현대적인 템플릿"
+  },
+  "footer": {
+    "copyright": "© 2026 ResumeForge. All rights reserved.",
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "close": "닫기",
+    "cancel": "취소",
+    "confirm": "확인"
+  }
+}

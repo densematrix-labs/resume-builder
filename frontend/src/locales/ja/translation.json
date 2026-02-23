@@ -1,0 +1,123 @@
+{
+  "app": {
+    "name": "ResumeForge",
+    "tagline": "無料AI履歴書作成ツール"
+  },
+  "nav": {
+    "home": "ホーム",
+    "builder": "作成",
+    "pricing": "料金",
+    "templates": "テンプレート"
+  },
+  "hero": {
+    "title": "完璧な履歴書を",
+    "subtitle": "AIの力で作成",
+    "description": "数分でプロフェッショナルなATS対応履歴書を作成。AI搭載、成功のために設計。",
+    "cta": "無料で始める",
+    "secondary_cta": "テンプレートを見る"
+  },
+  "features": {
+    "title": "必要な機能すべて",
+    "ai_writer": {
+      "title": "AI履歴書ライター",
+      "description": "GPT-4搭載AIで魅力的なポイントと要約を生成"
+    },
+    "templates": {
+      "title": "プロフェッショナルテンプレート",
+      "description": "キャリア専門家がデザインした10以上のATS対応テンプレート"
+    },
+    "export": {
+      "title": "PDF出力",
+      "description": "きれいなPDFとしてダウンロード、すぐに提出可能"
+    },
+    "cover_letter": {
+      "title": "カバーレター生成",
+      "description": "あらゆる求人に合わせたカバーレターを自動生成"
+    }
+  },
+  "builder": {
+    "title": "履歴書ビルダー",
+    "personal_info": "個人情報",
+    "experience": "職歴",
+    "education": "学歴",
+    "skills": "スキル",
+    "languages": "言語",
+    "certifications": "資格",
+    "add_section": "セクション追加",
+    "preview": "プレビュー",
+    "download": "PDFダウンロード",
+    "generate_ai": "AIで生成",
+    "generating": "生成中...",
+    "save": "保存"
+  },
+  "form": {
+    "full_name": "氏名",
+    "email": "メール",
+    "phone": "電話番号",
+    "location": "所在地",
+    "website": "ウェブサイト/LinkedIn",
+    "summary": "自己PR",
+    "job_title": "職種",
+    "company": "会社名",
+    "start_date": "開始日",
+    "end_date": "終了日",
+    "present": "現在",
+    "description": "詳細",
+    "degree": "学位",
+    "school": "学校名",
+    "field": "専攻"
+  },
+  "pricing": {
+    "title": "シンプルで明確な料金",
+    "subtitle": "無料で始めて、必要な時にアップグレード。",
+    "free": {
+      "name": "無料",
+      "price": "¥0",
+      "features": ["1日5回のAI生成", "全テンプレート", "透かし付きPDF出力", "基本サポート"]
+    },
+    "starter": {
+      "name": "スターター",
+      "price": "¥450",
+      "features": ["30回のAI生成", "全テンプレート", "透かしなし", "優先サポート"]
+    },
+    "pro": {
+      "name": "プロ",
+      "price": "¥1,050",
+      "features": ["100回のAI生成", "全テンプレート", "透かしなし", "カバーレター生成", "優先サポート"]
+    },
+    "unlimited": {
+      "name": "無制限",
+      "price": "¥1,500/月",
+      "features": ["無制限AI生成", "全テンプレート", "透かしなし", "カバーレター生成", "優先サポート", "新機能先行アクセス"]
+    },
+    "buy_now": "今すぐ購入",
+    "current_plan": "現在のプラン"
+  },
+  "payment": {
+    "success_title": "お支払い完了！",
+    "success_message": "トークンがアカウントに追加されました。",
+    "tokens_added": "追加されたトークン",
+    "continue": "作成を続ける"
+  },
+  "alt": {
+    "title": "最高のKickresume代替",
+    "comparison": "なぜKickresumeよりResumeForge？",
+    "free_features": "より多くの無料機能",
+    "no_watermark": "無料でも透かしなし",
+    "faster_ai": "より速いAI生成",
+    "better_templates": "モダンなテンプレート"
+  },
+  "footer": {
+    "copyright": "© 2026 ResumeForge. All rights reserved.",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "close": "閉じる",
+    "cancel": "キャンセル",
+    "confirm": "確認"
+  }
+}

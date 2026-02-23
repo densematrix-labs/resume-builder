@@ -1,0 +1,123 @@
+{
+  "app": {
+    "name": "ResumeForge",
+    "tagline": "Kostenloser KI-Lebenslauf-Generator"
+  },
+  "nav": {
+    "home": "Startseite",
+    "builder": "Erstellen",
+    "pricing": "Preise",
+    "templates": "Vorlagen"
+  },
+  "hero": {
+    "title": "Erstellen Sie Ihren perfekten Lebenslauf",
+    "subtitle": "mit KI-Unterstützung",
+    "description": "Erstellen Sie in wenigen Minuten professionelle, ATS-freundliche Lebensläufe. KI-gestützt, für Erfolg konzipiert.",
+    "cta": "Jetzt kostenlos starten",
+    "secondary_cta": "Vorlagen ansehen"
+  },
+  "features": {
+    "title": "Alles was Sie brauchen",
+    "ai_writer": {
+      "title": "KI-Lebenslauf-Schreiber",
+      "description": "Generieren Sie überzeugende Aufzählungspunkte mit GPT-4-KI"
+    },
+    "templates": {
+      "title": "Professionelle Vorlagen",
+      "description": "10+ ATS-freundliche Vorlagen von Karriereexperten"
+    },
+    "export": {
+      "title": "PDF-Export",
+      "description": "Laden Sie Ihren Lebenslauf als sauberes PDF herunter"
+    },
+    "cover_letter": {
+      "title": "Anschreiben-Generator",
+      "description": "Automatisch personalisierte Anschreiben generieren"
+    }
+  },
+  "builder": {
+    "title": "Lebenslauf-Editor",
+    "personal_info": "Persönliche Daten",
+    "experience": "Berufserfahrung",
+    "education": "Ausbildung",
+    "skills": "Fähigkeiten",
+    "languages": "Sprachen",
+    "certifications": "Zertifikate",
+    "add_section": "Abschnitt hinzufügen",
+    "preview": "Vorschau",
+    "download": "PDF herunterladen",
+    "generate_ai": "Mit KI generieren",
+    "generating": "Wird generiert...",
+    "save": "Speichern"
+  },
+  "form": {
+    "full_name": "Vollständiger Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "location": "Standort",
+    "website": "Website/LinkedIn",
+    "summary": "Zusammenfassung",
+    "job_title": "Berufsbezeichnung",
+    "company": "Unternehmen",
+    "start_date": "Startdatum",
+    "end_date": "Enddatum",
+    "present": "Aktuell",
+    "description": "Beschreibung",
+    "degree": "Abschluss",
+    "school": "Schule/Universität",
+    "field": "Fachrichtung"
+  },
+  "pricing": {
+    "title": "Einfache, transparente Preise",
+    "subtitle": "Kostenlos starten. Upgraden wenn nötig.",
+    "free": {
+      "name": "Kostenlos",
+      "price": "0€",
+      "features": ["5 KI-Generierungen pro Tag", "Alle Vorlagen", "PDF mit Wasserzeichen", "Basis-Support"]
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "2,99€",
+      "features": ["30 KI-Generierungen", "Alle Vorlagen", "Ohne Wasserzeichen", "Prioritäts-Support"]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "6,99€",
+      "features": ["100 KI-Generierungen", "Alle Vorlagen", "Ohne Wasserzeichen", "Anschreiben-Generator", "Prioritäts-Support"]
+    },
+    "unlimited": {
+      "name": "Unbegrenzt",
+      "price": "9,99€/Mo",
+      "features": ["Unbegrenzte KI-Generierungen", "Alle Vorlagen", "Ohne Wasserzeichen", "Anschreiben-Generator", "Prioritäts-Support", "Früher Zugang"]
+    },
+    "buy_now": "Jetzt kaufen",
+    "current_plan": "Aktueller Plan"
+  },
+  "payment": {
+    "success_title": "Zahlung erfolgreich!",
+    "success_message": "Ihre Tokens wurden Ihrem Konto gutgeschrieben.",
+    "tokens_added": "Hinzugefügte Tokens",
+    "continue": "Weiter erstellen"
+  },
+  "alt": {
+    "title": "Beste Kickresume-Alternative",
+    "comparison": "Warum ResumeForge statt Kickresume?",
+    "free_features": "Mehr kostenlose Funktionen",
+    "no_watermark": "Kein Wasserzeichen",
+    "faster_ai": "Schnellere KI-Generierung",
+    "better_templates": "Moderne Vorlagen"
+  },
+  "footer": {
+    "copyright": "© 2026 ResumeForge. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "retry": "Erneut versuchen",
+    "close": "Schließen",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen"
+  }
+}

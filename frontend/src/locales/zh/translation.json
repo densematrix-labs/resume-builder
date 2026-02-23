@@ -1,0 +1,146 @@
+{
+  "app": {
+    "name": "简历工坊",
+    "tagline": "免费 AI 简历生成器"
+  },
+  "nav": {
+    "home": "首页",
+    "builder": "制作简历",
+    "pricing": "价格",
+    "templates": "模板"
+  },
+  "hero": {
+    "title": "打造完美简历",
+    "subtitle": "AI 助力",
+    "description": "几分钟内创建专业的 ATS 友好简历。AI 驱动，为成功而设计。",
+    "cta": "开始制作 — 免费",
+    "secondary_cta": "查看模板"
+  },
+  "features": {
+    "title": "一站式服务",
+    "ai_writer": {
+      "title": "AI 简历撰写",
+      "description": "使用 GPT-4 驱动的 AI 生成引人注目的要点和摘要"
+    },
+    "templates": {
+      "title": "专业模板",
+      "description": "10+ 个由职业专家设计的 ATS 友好模板"
+    },
+    "export": {
+      "title": "PDF 导出",
+      "description": "将简历下载为整洁的 PDF，随时可提交"
+    },
+    "cover_letter": {
+      "title": "求职信生成",
+      "description": "自动生成针对任何职位的个性化求职信"
+    }
+  },
+  "builder": {
+    "title": "简历编辑器",
+    "personal_info": "个人信息",
+    "experience": "工作经历",
+    "education": "教育背景",
+    "skills": "技能",
+    "languages": "语言能力",
+    "certifications": "证书资质",
+    "add_section": "添加板块",
+    "preview": "预览",
+    "download": "下载 PDF",
+    "generate_ai": "AI 生成",
+    "generating": "生成中...",
+    "save": "保存"
+  },
+  "form": {
+    "full_name": "姓名",
+    "email": "邮箱",
+    "phone": "电话",
+    "location": "所在地",
+    "website": "网站/领英",
+    "summary": "个人简介",
+    "job_title": "职位",
+    "company": "公司",
+    "start_date": "开始时间",
+    "end_date": "结束时间",
+    "present": "至今",
+    "description": "描述",
+    "degree": "学位",
+    "school": "学校",
+    "field": "专业"
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "subtitle": "免费开始。需要更多时再升级。",
+    "free": {
+      "name": "免费版",
+      "price": "¥0",
+      "features": [
+        "每天 5 次 AI 生成",
+        "所有模板",
+        "带水印 PDF 导出",
+        "基础支持"
+      ]
+    },
+    "starter": {
+      "name": "入门版",
+      "price": "¥19",
+      "features": [
+        "30 次 AI 生成",
+        "所有模板",
+        "无水印",
+        "优先支持"
+      ]
+    },
+    "pro": {
+      "name": "专业版",
+      "price": "¥49",
+      "features": [
+        "100 次 AI 生成",
+        "所有模板",
+        "无水印",
+        "求职信生成",
+        "优先支持"
+      ]
+    },
+    "unlimited": {
+      "name": "无限版",
+      "price": "¥69/月",
+      "features": [
+        "无限 AI 生成",
+        "所有模板",
+        "无水印",
+        "求职信生成",
+        "优先支持",
+        "抢先体验新功能"
+      ]
+    },
+    "buy_now": "立即购买",
+    "current_plan": "当前方案"
+  },
+  "payment": {
+    "success_title": "支付成功！",
+    "success_message": "您的额度已添加到账户。",
+    "tokens_added": "已添加额度",
+    "continue": "继续制作"
+  },
+  "alt": {
+    "title": "最佳 Kickresume 替代品",
+    "comparison": "为什么选择简历工坊而非 Kickresume？",
+    "free_features": "更多免费功能",
+    "no_watermark": "免费版无水印",
+    "faster_ai": "更快的 AI 生成",
+    "better_templates": "更现代的模板"
+  },
+  "footer": {
+    "copyright": "© 2026 简历工坊。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "close": "关闭",
+    "cancel": "取消",
+    "confirm": "确认"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "app": {
+    "name": "ResumeForge",
+    "tagline": "Générateur de CV IA Gratuit"
+  },
+  "nav": {
+    "home": "Accueil",
+    "builder": "Créer",
+    "pricing": "Tarifs",
+    "templates": "Modèles"
+  },
+  "hero": {
+    "title": "Créez votre CV parfait",
+    "subtitle": "avec l'IA",
+    "description": "Créez des CV professionnels compatibles ATS en quelques minutes. Propulsé par l'IA, conçu pour réussir.",
+    "cta": "Commencer gratuitement",
+    "secondary_cta": "Voir les modèles"
+  },
+  "features": {
+    "title": "Tout ce dont vous avez besoin",
+    "ai_writer": {
+      "title": "Rédacteur IA de CV",
+      "description": "Générez des points clés convaincants avec l'IA GPT-4"
+    },
+    "templates": {
+      "title": "Modèles professionnels",
+      "description": "10+ modèles compatibles ATS conçus par des experts"
+    },
+    "export": {
+      "title": "Export PDF",
+      "description": "Téléchargez votre CV en PDF propre, prêt à envoyer"
+    },
+    "cover_letter": {
+      "title": "Générateur de lettres",
+      "description": "Générez automatiquement des lettres personnalisées"
+    }
+  },
+  "builder": {
+    "title": "Éditeur de CV",
+    "personal_info": "Informations personnelles",
+    "experience": "Expérience professionnelle",
+    "education": "Formation",
+    "skills": "Compétences",
+    "languages": "Langues",
+    "certifications": "Certifications",
+    "add_section": "Ajouter une section",
+    "preview": "Aperçu",
+    "download": "Télécharger PDF",
+    "generate_ai": "Générer avec l'IA",
+    "generating": "Génération...",
+    "save": "Enregistrer"
+  },
+  "form": {
+    "full_name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "website": "Site web/LinkedIn",
+    "summary": "Résumé professionnel",
+    "job_title": "Titre du poste",
+    "company": "Entreprise",
+    "start_date": "Date de début",
+    "end_date": "Date de fin",
+    "present": "Actuel",
+    "description": "Description",
+    "degree": "Diplôme",
+    "school": "École",
+    "field": "Domaine d'études"
+  },
+  "pricing": {
+    "title": "Tarification simple et transparente",
+    "subtitle": "Commencez gratuitement. Améliorez quand vous voulez.",
+    "free": {
+      "name": "Gratuit",
+      "price": "0€",
+      "features": ["5 générations IA par jour", "Tous les modèles", "PDF avec filigrane", "Support de base"]
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "2,99€",
+      "features": ["30 générations IA", "Tous les modèles", "Sans filigrane", "Support prioritaire"]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "6,99€",
+      "features": ["100 générations IA", "Tous les modèles", "Sans filigrane", "Générateur de lettres", "Support prioritaire"]
+    },
+    "unlimited": {
+      "name": "Illimité",
+      "price": "9,99€/mois",
+      "features": ["Générations IA illimitées", "Tous les modèles", "Sans filigrane", "Générateur de lettres", "Support prioritaire", "Accès anticipé"]
+    },
+    "buy_now": "Acheter",
+    "current_plan": "Plan actuel"
+  },
+  "payment": {
+    "success_title": "Paiement réussi !",
+    "success_message": "Vos jetons ont été ajoutés à votre compte.",
+    "tokens_added": "Jetons ajoutés",
+    "continue": "Continuer"
+  },
+  "alt": {
+    "title": "Meilleure alternative à Kickresume",
+    "comparison": "Pourquoi choisir ResumeForge ?",
+    "free_features": "Plus de fonctionnalités gratuites",
+    "no_watermark": "Pas de filigrane",
+    "faster_ai": "IA plus rapide",
+    "better_templates": "Modèles modernes"
+  },
+  "footer": {
+    "copyright": "© 2026 ResumeForge. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer"
+  }
+}
