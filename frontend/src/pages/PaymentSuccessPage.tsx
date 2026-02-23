@@ -1,12 +1,11 @@
 import { useTranslation } from 'react-i18next'
-import { Link, useSearchParams } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { CheckCircle } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { useDeviceId } from '../lib/fingerprint'
 
 export default function PaymentSuccessPage() {
   const { t } = useTranslation()
-  const [searchParams] = useSearchParams()
   const deviceId = useDeviceId()
   const [tokensAdded, setTokensAdded] = useState<number | null>(null)
   const [loading, setLoading] = useState(true)

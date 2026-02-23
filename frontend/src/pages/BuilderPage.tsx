@@ -5,23 +5,7 @@ import { useDeviceId } from '../lib/fingerprint'
 import { useResumeStore } from '../stores/resumeStore'
 import { generateContent } from '../lib/api'
 
-interface Experience {
-  id: string
-  title: string
-  company: string
-  startDate: string
-  endDate: string
-  description: string
-}
-
-interface Education {
-  id: string
-  degree: string
-  school: string
-  field: string
-  startDate: string
-  endDate: string
-}
+// Types are defined in resumeStore
 
 export default function BuilderPage() {
   const { t, i18n } = useTranslation()
